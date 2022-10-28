@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ali7887a/relationship.git/static/css/main.aa2cf0d0.css",
+    "main.js": "/ali7887a/relationship.git/static/js/main.ce4c3713.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ali7887a/relationship.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Sahel-Bold.eot": "/ali7887a/relationship.git/static/media/Sahel-Bold.02fec9f287c2bde226e8.eot",
+    "static/media/Sahel.ttf": "/ali7887a/relationship.git/static/media/Sahel.72ea6df7f4ff1b801942.ttf",
+    "static/media/will.jfif": "/ali7887a/relationship.git/static/media/will.ebc86418eb1f68c1358f.jfif",
+    "static/media/firstLove.jfif": "/ali7887a/relationship.git/static/media/firstLove.67cf8b3a1ec6da030254.jfif",
+    "index.html": "/ali7887a/relationship.git/index.html",
+    "main.aa2cf0d0.css.map": "/ali7887a/relationship.git/static/css/main.aa2cf0d0.css.map",
+    "main.ce4c3713.js.map": "/ali7887a/relationship.git/static/js/main.ce4c3713.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ali7887a/relationship.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2cf0d0.css",
+    "static/js/main.ce4c3713.js"
+  ]
+}
